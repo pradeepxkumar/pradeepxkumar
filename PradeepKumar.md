@@ -1,7 +1,6 @@
 <div align="center">
 👋 Hello, I'm Pradeep Kumar
 🚀 AI & Data Science Engineer | Full-Stack Developer | Innovation Catalyst
-[Show Image](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Enthusiast;Problem+Solver+%26+Tech+Explorer;Building+Tomorrow's+Solutions+Today!)
 
 </div>
 🎯 About Me
