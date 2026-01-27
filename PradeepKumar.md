@@ -10,20 +10,25 @@
 
 ---
 
-## 👨🏻‍💻 About Me
-
-B.Tech student in **AI & Data Science**
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"
-     width="320px"
+     width="420px"
      align="right"
      alt="About Me Illustration"/>
 
-I am passionate about Artificial Intelligence, with a strong interest in Machine Learning, Deep Learning, and Large Language Models. I work with image processing and natural language processing and enjoy solving real-world problems using data.
+## 👨🏻‍💻 About Me
 
-I have solid programming experience in Python and hands-on exposure to ML and DL techniques while working with large datasets. Currently, I am focusing on multimodal models that combine image and text data.
+🎓 B.Tech student in **AI & Data Science**  
+🤖 Interested in **AI, ML, DL, and LLMs**  
+🖼️ Experience with **Image Processing & NLP**  
+🧠 Currently working on **Multimodal models (Image + Text)**  
+🐍 Strong programming skills in **Python**  
+📊 Hands-on experience with **large datasets** and **C++**  
+🚀 Fast learner and highly motivated  
+🤝 Open to **innovative and challenging projects**
 
-I am a fast learner, highly motivated, and always ready to take on new challenges. I am open to collaborating on innovative and impactful AI projects.
+If you have questions about my code or ideas,  
+I’ll be happy to help. Let’s build something cool! 😄
 
 ---
 
