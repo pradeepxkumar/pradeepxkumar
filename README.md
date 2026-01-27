@@ -22,8 +22,8 @@
 🤖 Interested in **AI, ML, DL, and LLMs**  
 🖼️ Experience with **Image Processing & NLP**  
 🧠 Currently working on **Multimodal models (Image + Text)**  
-🐍 Strong programming skills in **Python**  and **C++**  
-📊 Hands-on experience with **large datasets** 
+🐍 Strong programming skills in **Python**  
+📊 Hands-on experience with **large datasets** and **C++**  
 🚀 Fast learner and highly motivated  
 🤝 Open to **innovative and challenging projects**
 
