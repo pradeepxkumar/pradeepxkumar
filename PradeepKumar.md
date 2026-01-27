@@ -1,78 +1,20 @@
-<div align="center">
-👋 Hello, I'm Pradeep Kumar
-🚀 AI & Data Science Engineer | Full-Stack Developer | Innovation Catalyst
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in//">Jisha</a> </h1>
 
-</div>
-🎯 About Me
-🎓 Currently pursuing B.Tech in AI & Data Science at GSV College
+<!--- Adding Header Elements -->
+<p align="center">
+  <a href="http://sanjaykv.com/">Portfolios</a> -
+  <a href="https://www.linkedin.com/in/sanjay-k-v/">LinkedIn</a> - 
+  <a href="https://x.com/sanjay_kv_">Twitter</a> -
+  <a href="https://recodehive.com/">Website</a> -
+  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
+  <a href="https://topmate.io/sanjaykv/">Contact me.</a> 
+</p>
 
-🏢 Professional Journey:
-
-📊 DRM Jaipur - Railway Data Management Intern
-💻 CRIS Delhi - Computer Railway Information Systems Intern
-💡 Mission: Transforming complex data into actionable insights and building intelligent systems that solve real-world problems
-
-🛠️ Tech Arsenal
-<div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-Show Image
-Show Image
-Show Image
-
-</div>
-🚀 What I'm Passionate About
-python
-class PradeepKumar:
-    def __init__(self):
-        self.role = "AI & Data Science Student"
-        self.expertise = {
-            "languages": ["Python", "SQL", "JavaScript"],
-            "technologies": ["Machine Learning", "Data Analysis", "Web Development"],
-            "interests": ["AI Research", "Game Development", "Automation"]
-        }
-        self.current_mission = "Building AI solutions for tomorrow's challenges"
-    
-    def get_goals(self):
-        return [
-            "🔬 Explore cutting-edge AI technologies",
-            "🎮 Merge AI with interactive experiences", 
-            "📊 Transform data into meaningful insights",
-            "🌍 Create impactful technological solutions"
-        ]
-🌟 Core Focus Areas
-<table align="center"> <tr> <td align="center" width="50%">
-🔬 Research & Innovation <br> Exploring AI frontiers and breakthrough technologies
-
-</td> <td align="center" width="50%">
-🎮 Interactive AI <br> Combining artificial intelligence with gaming experiences
-
-</td> </tr> <tr> <td align="center" width="50%">
-📈 Data Science <br> Converting raw data into actionable business insights
-
-</td> <td align="center" width="50%">
-🌍 Real-World Impact <br> Building solutions that make a meaningful difference
-
-</td> </tr> </table>
-📊 GitHub Analytics
-<div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" /> </td> </tr> </table>
-Show Image
-
-</div>
-🤝 Let's Connect & Build Together!
-<div align="center">
-Show Image
-Show Image
-Show Image
-
-<br>
-💡 "Innovation happens when passion meets purpose"
-
-Show Image
-
-</div>
-<div align="center"> <i>⚡ Fun fact: I believe every bug is just a feature in disguise! 🐛→✨</i> </div>
+-----------------------------------------------------------
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ Data Engineer | Prev. PM @girlscript <br>
+⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
+📫 How to reach me: [Schedule Call](https://topmate.io/sanjaykv) or Join  [Newsletter](https://recodehive.substack.com/)<br>
+👯 Join my opensource community[recodehive](https://github.com/Recodehive)<br>
+💬 Ask me about SEO/Data Science.<br>
+<!--- Adding Tech Stack open Section -->
