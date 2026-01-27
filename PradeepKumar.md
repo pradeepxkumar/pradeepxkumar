@@ -17,7 +17,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🎓 B.Tech student in **AI & Data Science**
+ 🎓 B.Tech student in **AI & Data Science**
 - 🤖 Interested in **AI, ML, DL, and LLMs**
 - 🖼️ Experience with **Image Processing & NLP**
 - 🧠 Currently working on **Multimodal models (Image + Text)**
