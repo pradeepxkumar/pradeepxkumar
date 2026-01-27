@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=450&lines=B.Tech+-+Artificial+Intelligence;AI+%26+ML+Engineer;Machine+Learning+%7C+Deep+Learning)](https://github.com/ReyhanehAhani)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=450&lines=B.Tech+-+Artificial+Intelligence;AI+%26+ML+Engineer;)](https://github.com/ReyhanehAhani)
 
 </div>
 
