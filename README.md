@@ -80,9 +80,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pradeepxkumar5)](https://www.linkedin.com/in/pradeepxkumar5)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://www.leetcode.com/pradeepxkumar)](https://www.leetcode.com/pradeepxkumar)
 [![Gmail](https://img.shields.io/badge/Gmail-pradeep20052004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeep20052004@gmail.com)
-
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pradeepxkumar.github.io/Porfolio/)
 
 
 
